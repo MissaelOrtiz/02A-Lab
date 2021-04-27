@@ -1,2 +1,2 @@
 # 02A-Lab
-A lab for Alchemy, find my nametag <a target="blank" href="https://missaelortiz.github.io/02A-Lab/"> here </a>.
+A lab for Alchemy, find my nametag <a target="_blank" href="https://missaelortiz.github.io/02A-Lab/"> here </a>.
