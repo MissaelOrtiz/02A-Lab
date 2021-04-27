@@ -1,0 +1,31 @@
+body {
+    text-align: center;
+    font-family: sans-serif;
+}
+.box {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: red;
+    color: white;
+    border-radius: 10%;
+    width: 400px;
+}
+.big {
+    font-weight: bolder;
+    font-size: 5rem;
+    text-transform: capitalize;
+}
+.small {
+    font-size: 2rem;
+}
+.fancy {
+    font-family: cursive;
+    font-size: larger;
+    color: black;
+    background-color: white;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    width: 100%;
+}
