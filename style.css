@@ -10,6 +10,10 @@ body {
     color: white;
     border-radius: 10%;
     width: 400px;
+    position: relative;
+    left: 750px;
+    margin: 100px;
+    box-shadow: 0px 10px 5px 0px gray;
 }
 #big {
     font-weight: bolder;
@@ -27,4 +31,22 @@ body {
     padding-top: 30px;
     padding-bottom: 30px;
     width: 100%;
+}
+#pink {
+    background-color: pink;
+}
+#lightGreen {
+    background-color: lightgreen;
+}
+#lightBlue {
+    background-color: lightblue;
+}
+.top {
+    position: relative;
+    top: 40px;
+}
+.ch {
+    font-weight: bolder;
+    font-size: larger;
+    text-shadow: 1px 1px gray;
 }
